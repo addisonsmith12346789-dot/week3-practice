@@ -1,0 +1,122 @@
+
+/* Base look */
+
+body {
+  font-family: Georgia, serif;
+  color: #262220;
+  background-color: #f4f1eb;
+  margin: 0;
+}
+
+/* Header */
+
+header {
+  background-color: #241f2f;
+  color: #ffffff;
+  padding: 20px;
+}
+
+header nav a {
+  color: #ffffff;
+  margin-right: 16px;
+}
+
+/* Typography */
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  color: #3d304d;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 1.25rem;
+  color: #3d304d;
+}
+
+p {
+  font-size: 1rem;
+}
+
+/* Whitespace */
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+p {
+  margin-bottom: 32px;
+}
+
+/* Footer */
+
+footer {
+  text-align: center;
+  font-size: 0.875rem;
+  color: #666666;
+  padding: 20px;
+}
+
+/* Call to action */
+
+.cta {
+  display: inline-block;
+  background-color: #8b3f24;
+  color: #ffffff;
+  font-size: 1.25rem;
+  padding: 16px 32px;
+  border-radius: 4px;
+  margin-top: 24px;
+  text-decoration: none;
+}
+
+/* Style tile swatches */
+
+.swatch {
+  display: inline-block;
+  width: 120px;
+  height: 80px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  vertical-align: top;
+}
+
+.swatch-primary {
+  background-color: #241f2f;
+}
+
+.swatch-neutral {
+  background-color: #262220;
+}
+
+.swatch-accent {
+  background-color: #a05235;
+}
+
+.swatch-cta {
+  background-color: #8b3f24;
+}
+
+/* Type samples */
+
+.type-sample-h1 {
+  font-size: 2.5rem;
+}
+
+.type-sample-h2 {
+  font-size: 1.75rem;
+}
+
+.type-sample-h3 {
+  font-size: 1.25rem;
+}
+
+.type-sample-body {
+  font-size: 1rem;
+}
